@@ -3,9 +3,11 @@
 //goes at the top of each template page
 $root = $_SERVER['DOCUMENT_ROOT'];
 $headcode_en = array (
-	"title" => ", resourses and links page",
-	"desc" => "A list of all the websites about caycedian sophrology in France, in Switzerland. List of books about sophrology. Stress management, ante-natal, post-natal, sport, children. Sophrology CD's",
-	"keywords" => "websites caycedian sophrology France, in Switzerland, List of books about sophology, Stress management, ante-natal, post-natal, sport, children, Sophrology CD's, official Caycedian Sophrology website, Site officiel de la Sophrologie Cayc&eacute;dienne, Acad&eacute;mie de Sophrologie de Paris XV, Acad&eacute;mie de Sophrologie Suisse, Initiation &agrave; la Sophrologie Cayc&eacute;dienne, Sophrologie : fondements et m&eacute;thodologie, champs d'application, m&eacute;thode pour g&eacute;rer votre stress, Maternit&eacute; et Sophrologie, L'enfant et la sophrologie, gestion du stress, pr&eacute;paration &agrave; l'accouchement, post-natal, remise en forme apr&egrave;s l'accouchement, sport et sophrologie",
+	"title" => ", resources and links page",
+	"desc" => 
+"News and events organised by Brigitte RINNER, The Sophrology Network  and The London Sophrology Institute, including workshops, classes, trainings, press articles, new books",
+	"keywords" => "
+Workshops, classes, new event, actualités, training, Sophrology and better sleep, discover Sophrology, manage your stress with Sophrology, atelier à thème, formation, école, antenatal, stress management, gestion du stress, préparation à l’accouchement, press release, article de journaux, devenir sophrologue, become a sophrologist, Caycedian Sophrology, Sophrologie Caycédienne, livre sur la sophrologie, book about sophrology, évènements ",
 	"body_id" => "links"	
 );
 
