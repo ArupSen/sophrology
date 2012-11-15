@@ -196,6 +196,7 @@ div.drawing p, div.photo p {
 /* makes the pictures smaller on actualites page
 -------------------------------------------*/
 #news #column img {width:200px;}
+#news #column .photo img {width:270px;}
 
 a {outline: none; font-weight:bold;} /*gets rid of dotted line*/
 a:link { color:#436381; text-decoration: none;}/*no underline*/
