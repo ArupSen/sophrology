@@ -28,6 +28,13 @@ include_once ($root."/sl_includes_en/sl_nav_en.php"); //the top nav bar
 		<li><img src="physio-logo.jpg" alt="Logo" />Physio for All practice: <a href="http://www.physio4all.com" target="_blank">www.physio4all.com</a></li>
 		<li><img src="bodylogic-logo.jpg" alt="Logo" />Body Logic practice: <a href="http://www.body-logic.co.uk" target="_blank">www.body-logic.co.uk</a></li>
 		</ul>
+		<div class="photo">
+		<img src="/book_chene.jpg" alt="An Introduction to Sophrology" title="An Introduction to Sophrology" height="360" width="247" />
+		<p>NEW: the first book in English about Sophrology has just been published "An Introduction to Sophrology" by Dr. P-A Ch&eacute;n&eacute;<br /><a href="contact.php">To order a copy, please contact me.</a>
+		</p>
+		</div>
+		<div class="clear">
+		</div>
 		<h4>En Fran&ccedil;ais
 		</h4>
 		<ul>
@@ -59,11 +66,6 @@ include_once ($root."/sl_includes_en/sl_nav_en.php"); //the top nav bar
 		<li>Tout sur la sophrologie, Dr Raymond Abrezol, Ed Favre, Lausanne</li>
 		<li>R&eacute;ussir, vaincre par la sophrologie, Tome 1 et 2, Dr Raymond Abrezol, Ed Lanor/Vivez Soleil</li>
 		</ul>
-		<div class="photo">
-		<img src="/book_chene.jpg" alt="An Introduction to Sophrology" title="An Introduction to Sophrology" height="360" width="247" />
-		<p>NEW: the first book in English about Sophrology has just been published "An Introduction to Sophrology" by Dr. P-A Ch&eacute;n&eacute;<br /><a href="contact.php">To order a copy, please contact me.</a>
-		</p>
-		</div>
 		<div class="photo">
 		<img src="/revue_suisse.jpg" alt="revue suisse sophrology magazine" title="revue suisse" height="360" width="260" />
 		<p>Revue suisse pour le d&eacute;veloppement international de la Sophrologie Cayc&eacute;dienne (par abonnement aupr&egrave;s de l'Acad&eacute;mie Suisse)
