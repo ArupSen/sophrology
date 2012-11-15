@@ -1,0 +1,8 @@
+/* the sophrology print stylesheet */
+#topnav, #headingtext a.language, #headingtext .access, #logo p, #footer a {
+		display:none;
+}
+body {
+	font-family:"Times New Roman", Times, serif;
+	font-size:13px;
+}

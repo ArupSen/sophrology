@@ -1,0 +1,27 @@
+#for sophrologylondon
+User-agent: *
+Disallow: /favicon.ico
+Disallow: /.htaccess
+Disallow: /cgi-bin/
+Disallow: /milestone-capital/
+Disallow: /error_log
+Disallow: /sof1.css
+Disallow: /sof2.css
+Disallow: /sof3.css
+Disallow: /sl_includes_en/
+Disallow: /sl_includes_fr/
+Disallow: /sl_dot.gif
+Disallow: /quote.gif
+Disallow: /sofprint.css
+Disallow: /diamond.gif
+Disallow: /british.gif
+Disallow: /french.gif
+Disallow: /bluecheck.gif
+Disallow: /dbcheck.gif
+Disallow: /404page.php
+
+
+# allow adsense bot on entire site
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*

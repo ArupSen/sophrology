@@ -1,0 +1,14 @@
+#this is for sophrologylondon.com
+#use to be all html, but now it's php, so need those redirects
+
+redirect 301 /index.html http://www.sophrologylondon.com/index.php
+redirect 301 /aboutme.html http://www.sophrologylondon.com/aboutme.php
+redirect 301 /onetoone.html http://www.sophrologylondon.com/onetoone.php
+redirect 301 /resources.html http://www.sophrologylondon.com/resources.php
+redirect 301 /sophrology.html http://www.sophrologylondon.com/sophrology.php
+redirect 301 /classes.html http://www.sophrologylondon.com/classes.php
+redirect 301 /contact.html http://www.sophrologylondon.com/contact.php
+redirect 301 /testimonials.html http://www.sophrologylondon.com/testimonials.php
+ErrorDocument 404 http://www.sophrologylondon.com/404page.php
+#ErrorDocument 403 http://www.sophrologylondon.com/403page.php
+Options +MultiViews

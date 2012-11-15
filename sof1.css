@@ -1,0 +1,153 @@
+/* CSS Document grey box model */
+body, html {
+	padding:0;
+	margin:0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#B0D0E8;
+}
+
+#main {/*position: relative; left: 16%;*/
+		margin-left: 15%;
+		width:750px;
+		color:#000000;
+		background:none;
+}
+#mainpic {/*position: relative; left: 16%;*/
+		margin-left:2%;
+		width:750px;
+		color:#000000;
+		background:none;
+		float:left;
+}
+h1 {	margin:0;
+		padding:0;
+		font-size: 50px;
+}
+#logo {	
+		font-size: 22px;
+		color:#436381;
+		font-style:oblique;
+		padding:1px 0 23px 15%;
+		margin:0;
+		width:85%;
+		text-align:left;
+		background-color:#67A8FF;
+		border-bottom: 1px solid #436381;
+		float:none;
+}
+#logo p {	padding:5px 0 0 0;
+			margin:0;
+			text-align:left;
+}
+#topnav {
+		width:100%;
+		margin:0;
+}
+#topnav ul {
+		list-style:none;
+		display:block;
+		margin:0;
+		padding:0;
+}
+#topnav li {
+		white-space:nowrap;
+		float:left;
+		/*background-color: rgb(190, 228, 241);*/
+		background-image:url(bluecheck.gif);
+		color:#03f;
+		font-size: 11px;
+		line-height: 20px;
+		padding:0;
+		margin: 0 3px 10px 0;
+		width:11.95%;
+		text-align: center;
+		list-style:none;
+}
+
+span#current li, span#current a {
+		background-image:url(dbcheck.gif);
+}
+#topnav a {
+		display:block;
+		border: 1px solid #436381;
+		border-top:none;
+}
+#pic {
+		margin: 0 9px 3px 0;
+		float:left;
+}
+#pic img {
+		border: 1px solid #436381;
+}
+.drawing {
+		margin:10px 50px 0 0;
+		float:left;
+		width: 170px;
+}
+.drawing img, .photo img {
+		border:1px solid #436381;
+}
+div.drawing p, div.photo p {
+		font-size:small;
+		font-style:italic;
+		margin:0;
+		padding-bottom:10px;
+		text-align:left;
+}
+.photo {
+		margin:10px 90px 0 0;
+		float:left;
+		width: 280px;
+}
+
+
+a {outline: none; font-weight:bold;} /*gets rid of dotted line*/
+a:link { color:#436381; text-decoration: none;}/*no underline*/
+a:visited {color: #3366FF; text-decoration: none;}/*light blue*/
+a:hover {color: #0033FF; text-decoration: underline;}/*dark blue*/
+
+#clear {
+		clear:both;
+		margin:0;
+		padding:0;
+}
+li, ul {
+		list-style-type: circle;
+		margin-left:10px;
+		padding-left:0;
+}
+ol, ol li {
+		list-style-type:decimal;
+		padding-left:0;
+		margin-left:13px;
+}
+.under {
+		text-decoration:underline;
+}
+.bold{
+		font-weight:bold;
+}
+.bu {
+		font-weight:bold;
+		text-decoration:underline;
+}
+#footer {
+		border-top: 1px solid #000;
+		padding: 2px;
+		margin:0;
+		width:750px;
+}
+div#footer a {
+		margin-left: 13px;
+}
+span#flag a {
+		/*background-image:  url("french.gif");*/
+		background-repeat:no-repeat;
+		background-position: left center;
+}
+p {		text-align:justify;
+		padding: 0 10px 0 2px;
+}
+h6 {	padding:0;
+		margin:0;
+}

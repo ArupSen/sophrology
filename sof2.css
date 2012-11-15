@@ -1,0 +1,245 @@
+/* 	Stylesheet for Sophrology London version 2.0, Sept 2007
+	By Arup Sen at http://arupdesigns.co.uk
+	
+	Here's the colour palette:
+	#000000 - black
+	#0033FF -
+	#3366FF - 
+	#436381 - 
+	#67A8FF -
+	#B0D0E8 -
+	#CFE1EE - h3 background, not used any more
+	#263D59 - h2 color and border
+	
+*/
+body, html {
+	padding:0;
+	margin:0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#B0D0E8;
+}
+p {		text-align:justify;
+		padding: 0 10px 0 2px;
+}
+blockquote {
+	background-image:url(quote.gif);
+	background-repeat:no-repeat;
+	background-position:0 5%;
+	padding-left:40px;
+	font-size:0.85em;
+	line-height:1.3em;
+	min-height:35px;
+	}
+h4 {
+	font-size:0.8em;
+}
+h3 {
+	font-size:0.9em;
+	font-style:italic;
+	margin-bottom:-6px;
+	padding:3px;
+}
+#classes h3 {
+	padding-top:2em;
+}
+h2 {
+	color:#263D59;
+	border-bottom:1px dotted #263D59;
+	width:99%;
+	padding-bottom:3px;
+}
+.clear {
+		clear:both;
+		margin:0;
+		padding:0;
+}
+
+#main {/*position: relative; left: 16%;*/
+		width:auto;
+		color:#000000;
+		background:none;
+}
+#mainpic {/*position: relative; left: 16%;*/
+		margin-left:2%;
+		width:750px;
+		color:#000000;
+		background:none;
+		float:left;
+}
+#column {
+		margin-left:auto;
+		margin-right:auto;
+		width:840px;
+}
+/* the heading and the blue stripe
+----------------------------------------*/
+h1 {	margin:0;
+		padding:0;
+		font-size: 50px;
+}
+#logo {	
+		font-size: 22px;
+		color:#436381;
+		font-style:oblique;
+		padding:1px 0 3px 0;
+		margin:0;
+		width:auto;
+		text-align:left;
+		background-color:#67A8FF;
+		border-bottom: 1px solid #436381;
+		float:none;
+		box-shadow: 0px 1px 2px #3366FF;
+}
+#logo p {	padding:5px 0 0 0;
+			margin:0;
+			text-align:left;
+}
+#headingtext {
+	text-align:left;
+	margin:auto;
+	width:840px;
+}
+#headingtext .access {
+	color:#67A8FF;
+	}
+#headingtext a.language {
+	background-image:url(french.gif);
+	background-repeat:no-repeat;
+	background-position:0 60%;
+	font-weight:normal;
+	padding-left:14px;
+	position:relative;
+	width:110%;
+	left:453px;
+	bottom:25px;
+	font-size:0.9em;
+}
+/*the main and only navigation really
+-------------------------------------------*/
+#topnav {
+		width:840px;
+		margin:auto;
+}
+#topnav ul {
+		list-style:none;
+		display:block;
+		margin:0;
+		padding:0;
+		background-color:#B0D0E8;
+}
+#topnav li {
+		white-space:nowrap;
+		float:left;
+		/*background-color: rgb(190, 228, 241);*/
+		background-image:url(bluecheck.gif);
+		color:#03f;
+		font-size:11px;
+		line-height: 22px;
+		padding:0;
+		margin: 0 3px 10px 0;
+		width:10.65%;
+		text-align: center;
+		background-color:#B0D0E8;
+		list-style:none;
+		border-radius:0px 0px 4px 4px;
+}
+
+
+#home #topnav li#nav_home, #soph #topnav li#nav_soph, #one #topnav li#nav_121, #classes #topnav li#nav_classes, #test #topnav li#nav_test, #about #topnav li#nav_about, #links #topnav li#nav_links, #contact #topnav li#nav_contact, #news #topnav li#nav_news {
+	background-image:url(dbcheck.gif);
+	}
+#topnav a {
+		display:block;
+		border: 1px solid #436381;
+		border-top:none;
+		border-radius:0px 0px 4px 4px;
+		box-shadow: 1px 1px 2px #3366FF;
+}
+/*the pagenav on classes page
+-------------------------------------------*/
+ul#pagenav{
+	padding-bottom:0;
+	margin-bottom:-20px;
+}
+
+/*these are for the drawings and pictures
+-------------------------------------------*/
+#pic {
+		margin: 0 22px 3px 0;
+		float:left;
+}
+#pic img {
+		border: 1px solid #436381;
+}
+.drawing {
+		margin:10px 50px 0 0;
+		float:left;
+		width: 170px;
+}
+.drawing img, .photo img {
+		border:1px solid #436381;
+}
+div.drawing p, div.photo p {
+		font-size:small;
+		font-style:italic;
+		margin:0;
+		padding-bottom:30px;
+		padding-top:5px;
+		text-align:left;
+}
+.photo {
+		margin:10px 10px 0 0;
+		float:left;
+		width: 270px;
+}
+
+/* makes the pictures smaller on actualites page
+-------------------------------------------*/
+#news #column img {width:200px;}
+
+a {outline: none; font-weight:bold;} /*gets rid of dotted line*/
+a:link { color:#436381; text-decoration: none;}/*no underline*/
+a:visited {color: #3366FF; text-decoration: none;}/*light blue*/
+a:hover {color: #0033FF; text-decoration: underline;}/*dark blue*/
+
+li, ul {
+		/*list-style-type: circle;*/
+		list-style-image:url(diamond.gif);
+		margin-left:10px;
+		padding-left:0;
+		padding-bottom:15px;
+		text-align:justify;
+		line-height:25px;
+		font-size:14px;
+}
+ul.logos li {list-style:none;margin-left:-10px;text-indent:0;}
+ul.logos li img {margin-right:10px;}
+ol, ol li {
+		list-style-type:decimal;
+		padding-left:0;
+		margin-left:13px;
+}
+.under {
+		text-decoration:underline;
+}
+.bold{
+		font-weight:bold;
+}
+.bu {
+		font-weight:bold;
+		text-decoration:underline;
+}
+#footer {
+		border-top: 1px dotted #436381;
+		padding: 2px;
+		color:#436381;
+		margin:auto;
+		width:840px;
+		font-size:0.7em;
+}
+#footer a.language {
+	background-image:url(french.gif);
+	background-repeat:no-repeat;
+	background-position:0 70%;
+	padding-left:14px;
+}
