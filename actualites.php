@@ -27,7 +27,7 @@ include_once ($root."/sl_includes_fr/sl_nav_fr.php"); //the top nav bar
 <br />
 		<div class="book_chene">
 		<img src="/book_chene.jpg" alt="An Introduction to Sophrology" title="An Introduction to Sophrology" height="360" width="247" />
-		<p>Vient de sortir: le premier livre en anglais sur le sophrologie ! <br />"An Introduction to Sophrology" by Dr. P-A Ch&eacute;n&eacute;<br /><a href="contact.php">Pour le commander, merci de me contacter.</a>
+		<p>Vient de sortir: le premier livre en anglais sur la sophrologie ! <br />"An Introduction to Sophrology" by Dr. P-A Ch&eacute;n&eacute;<br /><a href="contact.php">Pour le commander, merci de me contacter.</a>
 		</p>
 		</div>
 		<div class="clear">
