@@ -193,10 +193,13 @@ div.drawing p, div.photo p {
 		width: 270px;
 }
 
-/* makes the pictures smaller on actualites page
+/* makes the pictures smaller on news  page
+also positions the .book_chene div 
 -------------------------------------------*/
 #news #column img {width:200px;}
-#news #column .photo img {width:270px;}
+#news #column .book_chene img,#links #column .book_chene img {width:270px;float:left;display:block;margin:20px 20px 20px 0px;}
+#news #column .book_chene,#links #column .book_chene {width:720px;}
+#news #column .book_chene p,#links #column .book_chene p {position:relative;top:20px; }
 
 a {outline: none; font-weight:bold;} /*gets rid of dotted line*/
 a:link { color:#436381; text-decoration: none;}/*no underline*/
