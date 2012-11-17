@@ -25,7 +25,7 @@ include_once ($root."/sl_includes_fr/sl_nav_fr.php"); //the top nav bar
 <p>Notre but est de d&eacute;velopper la sophrologie en Grande Bretagne où elle reste peu connue aujourd’hui. Nous proposons des cours de groupes et des ateliers dans diff&eacute;rents quartiers de Londres. Vous trouverez toutes les informations sur notre site internet : <a href="http://thesophrologynetwork.co.uk/" target="_blank">www.thesophrologynetwork.co.uk</a></p>
 <p>Le prochain atelier que j’anime &laquo;&nbsp;Discover Sophrology&nbsp;&raquo; aura lieu le Mardi 4 d&eacute;cembre 2012 &agrave; 19h au cabinet Body Logic pr&egrave;s de Battersea Park. Plus d’info sur <a href="http://thesophrologynetwork.co.uk/workshops/" target="_blank">http://thesophrologynetwork.co.uk/workshops/</a></p>
 <br />
-		<div class="photo">
+		<div class="book_chene">
 		<img src="/book_chene.jpg" alt="An Introduction to Sophrology" title="An Introduction to Sophrology" height="360" width="247" />
 		<p>Vient de sortir: le premier livre en anglais sur le sophrologie ! <br />"An Introduction to Sophrology" by Dr. P-A Ch&eacute;n&eacute;<br /><a href="contact.php">Pour le commander, merci de me contacter.</a>
 		</p>

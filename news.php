@@ -27,7 +27,7 @@ I have recently teamed up with four sophrologist colleagues to create the Sophro
 <p>Our aim is to promote Sophrology and to make it available through workshops and classes throughout London. You will find all the information on the website: <a href="http://www.thesophrologynetwork.co.uk" target="_blank">www.thesophrologynetwork.co.uk</a></p>
 <p>The next workshop I organize will be &ldquo;Discover Sophrology&rdquo; on Tuesday 4th of December, 7pm at Body Logic near Battersea Park. More info:<br />
 <a href="http://thesophrologynetwork.co.uk/workshops" target="_blank">http://thesophrologynetwork.co.uk/workshops/</a></p>
-		<div class="photo">
+		<div class="book_chene">
 		<img src="/book_chene.jpg" alt="An Introduction to Sophrology" title="An Introduction to Sophrology" height="360" width="247" />
 		<p>NEW: the first book in English about Sophrology has just been published "An Introduction to Sophrology" by Dr. P-A Ch&eacute;n&eacute;<br /><a href="contact.php">To order a copy, please contact me.</a>
 		</p>
