@@ -55,6 +55,7 @@ Classes are held on Friday afternoon, at Physio for All (SW5)
 Since then, I often use the Sophrology techniques whenever I need them, to reduce my anxiety or help me fall asleep.&quot;
 </blockquote>
 <blockquote>&quot;Thank you so much for your help in preparing for my baby’s birth. He eventually arrived a few days before the due date. Sophrology really helped me during the whole process of giving birth, which was quite something: 27 hours of labour ending with a vacuum extraction delivery (my baby was probably feeling very comfortable inside!). I am sure I will keep using the techniques in other circumstances in my daily life.&quot;</blockquote>
+<blockquote>&quot;My sophrologist colleague, Marion, asked me to prepare her for the birth of her son. Look at her <a href="http://unepoigneedamour.com/preparing-for-the-birth-of-my-baby-using-sophrology/" target="_blank">blog</a> to find out what she says about pregnancy, motherhood and sophrology.&quot;</blockquote>
 		
 			<h3>Self Development with the CDR (Caycedian Dynamic Relaxation):<a name="self"></a></h3>
 			<p>A serie of four progressive levels concentrating on different aspects.</p>

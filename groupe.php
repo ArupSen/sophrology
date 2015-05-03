@@ -43,11 +43,17 @@ include_once ($root."/sl_includes_fr/sl_nav_fr.php"); //the top nav bar
 		<blockquote>&laquo; Je suis beaucoup plus pr&eacute;cis et pertinent quand je fais une pr&eacute;sentation. &raquo;</blockquote>
 		<h3>Pr&eacute;paration aux examens :<a name="exams"></a></h3>
 		<p>en trois s&eacute;ances d'une heure, vous apprendrez &agrave; g&eacute;rer votre stress, am&eacute;liorer votre concentration et d&eacute;velopper votre confiance en vous. Des exercices simples, faciles &agrave; utiliser vous seront enseign&eacute;s pour ne pas paniquer le jour d'un examen, &eacute;viter le stress de la copie blanche et ne pas perdre vos moyens pendant un oral.<br /><br />
-Les vendredi apr&egrave;s midi, au Cabinet Physio For All (SW5)
 </p>
 <blockquote>&laquo; Je n'ai plus de crampes dans le ventre avant les examens &raquo;</blockquote>
-<blockquote>&laquo; Ces s&eacute;ances m'ont vraiment permis d'apprendre comment g&eacute;rer le stress avant les contrôles mais aussi durant toute la journ&eacute;e. &raquo;</blockquote>
+<blockquote>&laquo; Ces s&eacute;ances m'ont vraiment permis d'apprendre comment g&eacute;rer le stress avant les contr&ocirc;les mais aussi durant toute la journ&eacute;e. &raquo;</blockquote>
 <blockquote>&laquo; Je viens d'avoir mes r&eacute;sultats :  j'ai mon bac avec mention tr&egrave;s bien ! Je voulais vous remercier car, sans la sophrologie, je n'y serais pas arriv&eacute;e. &raquo;</blockquote>
+<blockquote>&laquo; Le bac s'est bien pass&eacute; et j'ai &eacute;t&eacute; tr&egrave;s relax pendant cette semaine. Je faisais la s&eacute;ances de 15 min tous les soirs pendant la semaine et cela m'a beaucoup aid&eacute;. De plus, pendant les &eacute;preuves, lorsque je prenais des pauses aux toilettes je faisais les &eacute;tirements qui me faisaient du bien.
+Une semaine plus tard, j'ai pass&eacute; l’&eacute;preuve d’art. Je n'avais pas fait les s&eacute;ances et me sentais super stress&eacute;e. C'est l&agrave; que j'ai r&eacute;alis&eacute; que je n'aurais pas pu passer &agrave; travers cette p&eacute;riode sans votre aide. 
+&raquo;</blockquote>
+<blockquote>&laquo; Quand ma m&egrave;re m'a dit qu'elle m'avait trouv&eacute; un moyen de g&eacute;rer mon stress, je n'y croyais pas trop. Je suis un enfant stress&eacute; de nature mais je me suis dit pourquoi pas, c'est qu'un rendez-vous d'une heure. 
+Apr&egrave;s mon rendez-vous, j'ai demand&eacute; &agrave; ma m&egrave;re de me prendre un rendez-vous toutes les semaines d'ici mon bac. Mais qu'est-ce qui m'a fait changer d'avis? Ce qui m'a le plus plu avec les s&eacute;ances de sophrologie c’est le fait qu'on se sent toujours dans un endroit parfait où nos probl&egrave;mes disparaissent. Le mieux c'est qu'on nous apprend des m&eacute;thodes que l'on peut faire tous les jours &agrave; la maison pendant cinq ou dix minutes qui m'ont permis de me d&eacute;tendre dans un moment stressant. Personnellement, mes tr&egrave;s bons r&eacute;sultats au baccalaur&eacute;at ont &eacute;t&eacute; grâce &agrave; ces s&eacute;ances de sophrologie et donc je tiens &agrave; remercier Brigitte et &agrave; encourager n'importe qui de s'y mettre le plus t&ocirc;t possible !
+
+&raquo;</blockquote>
 		<h3>Pr&eacute;paration &agrave; l'accouchement:<a name="antenatal"></a></h3>
 			<p>C'est une pr&eacute;paration &agrave; la fois physique, mentale et &eacute;motionnelle &agrave; la grossesse et &agrave; l'accouchement. Vous apprendrez &agrave; vous d&eacute;tendre, &agrave; d&eacute;velopper la conscience de vos diff&eacute;rents organes (ut&eacute;rus, col, vagin), &agrave; vous familiariser avec les changements de votre corps et &agrave; vous pr&eacute;parer pour le travail et l'accouchement. Tout au long de la grossesse, vous apprendrez &agrave; entrer en contact avec votre b&eacute;b&eacute;, &agrave; lui envoyer de l'&eacute;nergie, de l'amour, de la tendresse. 		
 		</p>
