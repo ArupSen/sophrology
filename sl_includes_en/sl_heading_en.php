@@ -5,24 +5,26 @@ function getFrenchName() {
 $pageName = basename($_SERVER['PHP_SELF'], ".php");
 // switch case according to pageName value
 switch ($pageName) {
-	case(index):
-	return "accueil";
-	case(sophrology):
-	return "sophrologie";
-	case(onetoone):
-	return "consultation";
-	case(classes):
-	return "groupe";
-	case(testimonials):
-	return "temoignages";
-	case(aboutme):
-	return "presentation";
-	case(resources):
-	return "liens";
-	case(contact):
-	return "contactez";
-	case(news):
-	return "actualites";
+case(index):
+  return "accueil";
+case(sophrology):
+  return "sophrologie";
+case(onetoone):
+  return "consultation";
+case(classes):
+  return "groupe";
+case(testimonials):
+  return "temoignages";
+case(aboutme):
+  return "presentation";
+case(resources):
+  return "liens";
+case(contact):
+  return "contactez";
+case(news):
+  return "actualites";
+case(antenatal):
+  return "accouchement";
 }
 }
 ?>

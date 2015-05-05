@@ -4,6 +4,7 @@
 			<li id="nav_soph"><a href="/sophrologie.php" title="Qu'est-ce que la Sophrologie ?" onfocus="if(this.blur)this.blur()">Sophrologie</a></li>
 			<li id="nav_121"><a href="/consultation.php" title="Consultation" onfocus="if(this.blur)this.blur()">Consultation</a></li>
 			<li id="nav_classes"><a href="/groupe.php" title="Sessions en groupe" onfocus="if(this.blur)this.blur()">En Groupe</a></li>
+			<li id="nav_accouchement"><a href="/accouchement.php" title="Accouchement" onfocus="if(this.blur)this.blur()">Accouchement</a></li>
 			<li id="nav_test"><a href="/temoignages.php" title="T&eacute;moignages" onfocus="if(this.blur)this.blur()">T&eacute;moignages</a></li>
 			<li id="nav_about"><a href="/presentation.php" title="Brigitte Rinner" onfocus="if(this.blur)this.blur()">Brigitte Rinner</a></li>
 			<li id="nav_links"><a href="/liens.php" title="liens utiles et bibliographie" onfocus="if(this.blur)this.blur()">Liens Utiles</a></li>
