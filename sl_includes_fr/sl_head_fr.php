@@ -9,6 +9,7 @@
 <meta name="description" content="<?php echo $headcode_en["desc"];?>" />
 <link rel="stylesheet" href="/sof3.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="/sofprint.css" type="text/css" media="print" />
+<link rel="stylesheet" href="/dd-formmailer.css" type="text/css" media="screen" />
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
 <!--[if gte IE 5.5]>

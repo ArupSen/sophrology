@@ -8,6 +8,7 @@
 <meta name="keywords" content="<?php echo $headcode_en["keywords"]; ?>" />
 <meta name="description" content="<?php echo $headcode_en["desc"];?>" />
 <link rel="stylesheet" href="/sof2.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/dd-formmailer.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="/sofprint.css" type="text/css" media="print" />
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 

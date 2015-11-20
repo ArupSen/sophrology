@@ -22,8 +22,8 @@ include_once ($root."/sl_includes_fr/sl_nav_fr.php"); //the top nav bar
     <p>21 Warriner Gardens
       <br />London SW11 4EA
       <br />020 7498 1566 / 077 6606 5691
-      <br /><a href="mailto:brigitte@sophrologylondon.com" title="e&ndash;mail">brigitte@sophrologylondon.com</a>
     </p>
+<?php include_once ($root."/sl_includes_fr/dd-formmailer.php"); //the form script ?>
   <div id="pic">
   <img src="/map.jpg" alt="map of Warriner Gardens" title="Warriner Gardens se trouve au Sud de Battersea Park" height="260" width="360" />
   </div>
